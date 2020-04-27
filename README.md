@@ -1,3 +1,9 @@
+# Note
+This is a customized version of the repository https://github.com/jadore801120/attention-is-all-you-need-pytorch
+We made some changes in the models to suit our [mathword project](https://github.com/text-machine-lab/mathword/tree/stable).
+
+The following content is copied from the original repository.
+
 # Attention is all you need: A Pytorch Implementation
 
 This is a PyTorch implementation of the Transformer model in "[Attention is All You Need](https://arxiv.org/abs/1706.03762)" (Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, arxiv, 2017). 
